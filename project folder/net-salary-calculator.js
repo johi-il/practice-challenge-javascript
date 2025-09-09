@@ -1,4 +1,4 @@
-// salary after tax
+// salary after tax                               //not so sure of what i am doing
 // assignment expression
 function gross(salary){
 if(salary<=24000){
